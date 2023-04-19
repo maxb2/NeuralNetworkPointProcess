@@ -18,12 +18,9 @@ Paper:
 Tested in Ubuntu 20.04. Conda required.
 To set up the virtual environment and install required dependencies run:
 ```
-$ ./setup.sh
+$ ./setup.sh install
 ```
-To start up the jupyter notebook run:
-```
-$ ./start-conda.sh
-```
+
 
 # Notebook details
 
